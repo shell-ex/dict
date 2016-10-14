@@ -22,3 +22,6 @@ Originated from: http://www.oschina.net/code/snippet_942897_27191
 ## 中译英
 ![中译英](https://raw.githubusercontent.com/shell-ex/dict/master/demo/Chinese_To_English.png)
 
+# 安装
+
+> sudo ln -sf dict.sh /usr/local/bin/dict
