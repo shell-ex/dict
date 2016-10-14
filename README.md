@@ -1,6 +1,7 @@
 # dict
 
 有道词典命令行版，采用youdao网页查词引擎构建
+
 Originated from: http://www.oschina.net/code/snippet_942897_27191
 
 因为原作者不持续更新，为了保证自己的日常使用，该项目由自己维护
