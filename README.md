@@ -24,4 +24,4 @@ Originated from: http://www.oschina.net/code/snippet_942897_27191
 
 # 安装
 
-> sudo ln -sf dict.sh /usr/local/bin/dict
+> sudo ln -f dict.sh /usr/local/bin/dict
